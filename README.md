@@ -4,7 +4,7 @@
 [Andrés Álvarez](https://economia.uniandes.edu.co/alvarez), [Marc Hofstetter](https://economia.uniandes.edu.co/hofstetter), Jorge Guerra-España, Samuel Gutiérrez, Marc Hofstetter
 
 ## Descripción
-Este repositorio contiene las simulaciones basadas en el modelo insumo-producto que analizan los desafíos de la transición energética en Colombia. Colombia se enfrenta a un camino particularmente desafiante hacia la reducción del consumo y producción de combustibles fósiles, un sector crucial para sus ingresos, empleo, recursos fiscales y divisas. Este documento aporta cuantificaciones concretas sobre estos retos, tanto a nivel nacional como local, estimando el impacto en empleo, actividad económica y los desafíos que implicaría su sustitución.
+Este repositorio contiene las simulaciones basadas en el modelo insumo-producto (nacional y regional) que analizan los desafíos de la transición energética en Colombia. Colombia se enfrenta a un camino particularmente desafiante hacia la reducción del consumo y producción de combustibles fósiles, un sector crucial para sus ingresos, empleo y recursos fiscales.
 
 ### Estructura del Documento
 El análisis se divide en dos secciones principales:
@@ -18,15 +18,8 @@ Utilizamos dos enfoques complementarios para nuestro análisis:
 
 > **Nota:** Los datos y resultados específicos serán actualizados y discutidos dentro de este repositorio.
 
-## Contribuciones
-Invitamos a colaboradores interesados en la transición energética de Colombia a contribuir con análisis, datos o perspectivas adicionales. Para más detalles sobre cómo contribuir, por favor revisa las guías de contribución en este repositorio.
-
 ## Licencia
 Este proyecto está licenciado bajo [Incluir Tipo de Licencia], lo que permite su uso, modificación y distribución bajo ciertas condiciones.
 
 ### Contacto
-Para preguntas o colaboraciones, por favor contacta a [Incluir Información de Contacto].
-
----
-
-Este trabajo refleja el compromiso de Colombia con una transición energética sostenible, subrayando los desafíos económicos y sociales a superar.
+Para preguntas o colaboraciones, por favor contacta a [Jorge Guerra](ja.guerrae@uniandes.edu.co).
